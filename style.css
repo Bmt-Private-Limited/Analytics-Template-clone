@@ -373,4 +373,16 @@ main .footer .f-column{
   text-align: center;
 }
 
+main .region-feed .right .box .data-row .right .left{
+  padding-left: 10px;
+}
+main .region-feed .right .box .data-row .right .right1{
+  padding-right: 10px;
+}
+
+main .recent-comment .row {
+    flex-direction: column;
+    gap: 30px;
+}
+
 }
